@@ -1,4 +1,4 @@
-This is the code to run the waveletcoherence for the climate insurance for Belize and SVG.
+This is the code to run the wavelet coherence for the climate insurance for Belize and SVG.
 
 
 The file Belizetransformation.m transforms the rainfall and SITC0 exports for Belize. This file must be run before running the coherence model. Note, the data is in this file.
