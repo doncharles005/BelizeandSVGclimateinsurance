@@ -15,6 +15,7 @@ The file Belizefloodpayout.m computes the excess rain policy payout for Belize.
 The file SVGfloodpayout.m computes the excess rain policy payout for SVG.
 
 The file Belizedroughtpayout.m computes the deficit rain policy payout for Belize.
+The file SVGdroughtpayout.m computes the deficit rain policy payout for SVG.
 
 
 This code was run in Matlab 2021a.
